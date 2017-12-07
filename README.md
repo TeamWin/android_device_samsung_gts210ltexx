@@ -20,3 +20,4 @@ lunch omni_gts210ltexx-eng
 mka recoveryimage
 ```
 
+Kernel source: https://github.com/LineageOS/android_kernel_samsung_gts2/tree/cm-14.1
