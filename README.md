@@ -1,4 +1,4 @@
-## TWRP device tree for Samsung Galaxy Tab S2 9.7 (LTE)
+## TWRP device tree for Samsung Galaxy Tab S2 9.7 2015 (LTE)
 ## gts210ltexx
 
 Add to `.repo/local_manifests/gts210ltexx.xml`:
